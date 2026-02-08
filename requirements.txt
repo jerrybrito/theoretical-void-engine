@@ -1,0 +1,2 @@
+# Requires: potential-inertia
+# (Not available on PyPI)
